@@ -1,5 +1,6 @@
 let name = "akanshu tyagi";
 let name1 = "Vishal";
+let name12 = "Vishal";
 let surname = 1;
 
 age = 26;
