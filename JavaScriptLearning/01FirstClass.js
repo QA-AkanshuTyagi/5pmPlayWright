@@ -1,5 +1,5 @@
 let name = "akanshu tyagi";
-
+let name1 = "Vishal";
 let surname = 1;
 
 age = 26;
