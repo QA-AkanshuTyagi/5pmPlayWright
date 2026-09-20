@@ -2,7 +2,7 @@ let name = "akanshu tyagi";
 let name1 = "Vishal";
 let surname = 111;
 
-age = 26;
+age = 29;
 var age = "string";
 const NUMBER = 12;
 
