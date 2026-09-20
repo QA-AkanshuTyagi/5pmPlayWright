@@ -1,6 +1,6 @@
 let name = "akanshu tyagi";
 let name1 = "Vishal";
-let surname = 1;
+let surname = 111;
 
 age = 26;
 var age = "string";
